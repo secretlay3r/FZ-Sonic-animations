@@ -5,6 +5,9 @@ Sonic animations for Flipper Zero
 Unzip AllAnims archive and replace your dolphin folder with a folder inside AllAnims archive.
 Want to remove some animations? Then go to manifest.txt and delete animations you don't need, you can also change weight of animations, which is responsible for the frequency of its appearance (more weight - animation appears more often).
 
+# Special thank
+To Kuronons for mentioning me, check out this repo for more Flipper Zero graphics! 
+https://github.com/Kuronons/FZ_graphics
 # Animations preview
 
 ![amyrose1](https://github.com/secretlay3r/FZ-Sonic-animations/assets/80585554/c00fb2ef-4c4c-4f4a-8b5b-d00f2f116856) amyrose1
